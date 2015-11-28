@@ -1,5 +1,5 @@
-# EVE-Character-Info ##
-#### What is it?
+# EVE-Character-Info
+### What is it?
 Simple Frontend to view Pilot Public Info
 
 ### What does it do?
